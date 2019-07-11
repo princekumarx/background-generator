@@ -1,0 +1,19 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "\"# background-generator\" \r \"# background-generator\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekumarx/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekumarx/background-generator/issues"
+  },
+  "homepage": "https://github.com/princekumarx/background-generator#readme"
+}

@@ -1,5 +1,17 @@
 body{
     text-align: center;
-    color: wheat;
-    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);;
+    color: rgba(0, 0, 0,.5);
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+}
+
+h1{
+    font:  600 3.5em sans-serif;
+    width: 100%;
+}
+
+h3{
+    font-size: 1em;
 }
